@@ -6,7 +6,7 @@
         <h2>{{flight.date}}</h2>
         <h2>{{flight.price}}</h2>
         <h2> {{flight.passenger_details.name}}</h2>
-        <h2>{{flight.passenger_details.age}}</h2>
+        <h2>{{flight.booking_status}}</h2>
 
     </div>
 

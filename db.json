@@ -1,0 +1,67 @@
+{"flights": [{
+  "flight_number":1,
+  "flight_name": "American airlines",
+  "date": "21-11-2023",
+  "price":100,
+  "passenger_details": {
+    "name": "Nikhil",
+    "age": 23
+  },
+  "booking_status": true
+
+},
+{
+  "flight_number":2,
+  "flight_name": "Spirit airlines",
+  "date": "22-11-2023",
+  "price":75,
+  "passenger_details": {
+    "name": "Akhil",
+    "age": 24
+  },
+  "booking_status": true
+},
+{
+  "flight_number":3,
+  "flight_name": "Delta airlines",
+  "date": "23-11-2023",
+  "price":50,
+  "passenger_details": {
+    "name": "James",
+    "age": 25
+  },
+  "booking_status": true
+},
+{
+  "flight_number":4,
+  "flight_name": "Southwest airlines",
+  "date": "25-11-2023",
+  "price":60,
+  "passenger_details": {
+    "name": "Nick",
+    "age": 22
+  },
+  "booking_status": true
+},
+{
+  "flight_number":5,
+  "flight_name": "Qatar airlines",
+  "date": "26-11-2023",
+  "price":120,
+  "passenger_details": {
+    "name": "Rohit",
+    "age": 30
+  },
+  "booking_status": false
+},
+{
+  "flight_number":6,
+  "flight_name": "AirIndia airlines",
+  "date": "27-11-2023",
+  "price":110,
+  "passenger_details": {
+    "name": "Ben",
+    "age": 28
+  },
+  "booking_status": true
+}]}
